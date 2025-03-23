@@ -22,4 +22,6 @@ my_cursor.insert_rows('users', users_fields, users_to_insert)
 
 # Fetching data from database in users table
 result = my_cursor.execute_simple_select_query('users', users_fields)
-print(result)
+result2 = my_cursor.execute_simple_select_query('users', ['username', 'age'])
+print('First fetch:', result)
+print('Second fetch:', result2)

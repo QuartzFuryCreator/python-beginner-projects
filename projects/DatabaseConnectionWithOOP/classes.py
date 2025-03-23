@@ -4,10 +4,6 @@ import sqlite3
 # Abstract Classes 
 class AbstractDatabase(ABC):
     @abstractmethod
-    def connect(self) -> None:
-        pass
-
-    @abstractmethod
     def close(self) -> None:
         pass
 
@@ -58,7 +54,7 @@ class Cursor():
                 - database_object (Database): Database connection object to create the cursor.
         """
         self.database = database_object
-        self.__cursor = self.database.__conn.cursor()
+        self.__cursor = self.database.conn.cursor()
 
     @property
     def cursor(self) -> object:
