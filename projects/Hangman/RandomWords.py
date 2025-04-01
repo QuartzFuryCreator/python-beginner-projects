@@ -47,6 +47,7 @@ medium_wordlist = [
     "bottle",
     "host",
 ]
+
 hard_wordlist = [
     "uncanny",
     "ironic",
@@ -73,4 +74,5 @@ hard_wordlist = [
     "quench",
     "solace",
     "tedious",
+    "malicious",
 ]
