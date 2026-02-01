@@ -16,7 +16,7 @@
 💠 _This repository offers a variety of fascinating mini-projects written in Python._ 
 
 💠 _Working on Python projects will undoubtedly improve your skills and raise your profile in preparation for the globalised marketplace outside._
-
+r
 💠 _Projects are a potential method to begin your career in this area._
 gg
 💠 _This language deserves a lot of attention in today's world, and why not since it can address so many real-world problems?_
