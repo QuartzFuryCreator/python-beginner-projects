@@ -14,7 +14,7 @@
 
 # 💭 **Why these awesome projects ??**
 💠 _This repository offers a variety of fascinating mini-projects written in Python._ 
-
+ertert
 💠 _Working on Python projects will undoubtedly improve your skills and raise your profile in preparation for the globalised marketplbbbace outside._
 r
 💠 _Projects are a potential method to begin your career in this area._
