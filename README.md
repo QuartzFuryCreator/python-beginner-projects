@@ -1,28 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects">
-    <img src="https://raw.githubusercontent.com/Mrinank-Bhowmick/python-beginner-projects/main/Banner.png" height="405" width="720">
-  </a>
-</h1>
-
-<p align="center">
-<a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Mrinank-Bhowmick/python-beginner-projects.svg"></a>
-<a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Mrinank-Bhowmick/python-beginner-projects.svg?color=blue"></a>
-<a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Mrinank-Bhowmick/python-beginner-projects.svg?color=blue"></a>
-<a><img alt="Awesome" src="https://awesome.re/badge-flat2.svg"></a>
-</p>
-
-
-# 💭 **Why these awesome projects ??**
-💠 _This repository offers a variety of fascinating mini-projects written in Python._ 
-ertert
-💠 _Working on Python projects will undoubtedly improve your skills and raise your profile in preparation for the globalised marketplbbbace outside._
-r
-💠 _Projects are a potential method to begin your career in this area._
-gg
-💠 _This language deserves a lot of attention in today's world, and why not since it can address so many real-world problems?_
-
-
-<h2> 📈<I> Tweet this repository </I> </h2>
+  <a href="https://github.com/Mrinank-Bhowmick/python-be
 
 <a href="https://twitter.com/intent/tweet?text=Some%20awesome%20python%20beginner%20projects%20to%20kick%20start%20your%20learning%20journey&url=https://github.com/MrinankBhowmick/python-beginner-projects&via=_mrinank_&hashtags=python,programming,100DaysOfCode,opensource,DataScience"> <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="InfiniteGraph Logo" width="120"> </a>
 
